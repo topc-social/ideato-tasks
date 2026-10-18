@@ -122,6 +122,8 @@ Units: 1 Neki = 1 rupee of work at today's market price (what it costs to get th
 | 114 | 2026-10-16 | Kamal Khatwani | Work (99%) on #44: Signing out of Ideato shouldn't disconnect Claude | 792 | provisional | https://github.com/kamal0808/ideato/pull/105 |
 | 115 | 2026-10-16 | Kamal Khatwani | Idea (1%) for #65: One page that shows how to connect Ideato to any AI | 15 | provisional | https://github.com/kamal0808/ideato/pull/107 |
 | 116 | 2026-10-16 | Kamal Khatwani | Work (99%) on #65: One page that shows how to connect Ideato to any AI | 1,485 | provisional | https://github.com/kamal0808/ideato/pull/107 |
+| 117 | 2026-10-18 | Kamal Khatwani | Idea (1%) for #116: Beta badge + "Found a bug?" button that files a task | 15 | provisional | https://github.com/kamal0808/ideato/pull/106 |
+| 118 | 2026-10-18 | Kamal Khatwani | Work (99%) on #116: Beta badge + "Found a bug?" button that files a task | 1,485 | provisional | https://github.com/kamal0808/ideato/pull/106 |
 
 ## Row 1 breakdown (rebuild cost on rate card v2, 2026-10-08)
 
