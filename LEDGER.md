@@ -148,6 +148,8 @@ Units: 1 Neki = 1 rupee of work at today's market price (what it costs to get th
 | 140 | 2026-10-19 | Kamal Khatwani (via Claude) | Work (99%) on #76: List Finicky Picker as a project on Ideato | 792 | provisional | https://github.com/topc-social/ideato-tasks/issues/76 |
 | 141 | 2026-10-19 | Kamal Khatwani | Idea (1%) for #140: Invites to people on Ideato: email them right away, not in a blank digest | 8 | provisional | https://github.com/kamal0808/ideato/pull/119 |
 | 142 | 2026-10-19 | Kamal Khatwani | Work (99%) on #140: Invites to people on Ideato: email them right away, not in a blank digest | 792 | provisional | https://github.com/kamal0808/ideato/pull/119 |
+| 143 | 2026-10-19 | Kamal Khatwani | Idea (1%) for #141: Neki emails never go out | 8 | provisional | https://github.com/kamal0808/ideato/pull/119 |
+| 144 | 2026-10-19 | Kamal Khatwani | Work (99%) on #141: Neki emails never go out | 792 | provisional | https://github.com/kamal0808/ideato/pull/119 |
 
 ## Row 1 breakdown (rebuild cost on rate card v2, 2026-10-08)
 
