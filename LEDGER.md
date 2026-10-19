@@ -154,6 +154,8 @@ Units: 1 Neki = 1 rupee of work at today's market price (what it costs to get th
 | 146 | 2026-10-19 | Kamal Khatwani (via Claude) | Work (99%) on #142: Local Ideato connector crashes: create_invite registered twice | 792 | provisional | https://github.com/topc-social/ideato-tasks/issues/142 |
 | 147 | 2026-10-19 | Kamal Khatwani | Work (99%) on #136: Turn PostHog back on across Ideato, with session replay | 792 | provisional | https://github.com/kamal0808/ideato/pull/120 |
 | 148 | 2026-10-19 | Kamal Khatwani | Idea (1%) for #136: Turn PostHog back on across Ideato, with session replay | 8 | provisional | https://github.com/topc-social/ideato-tasks/issues/136 |
+| 149 | 2026-10-20 | Kamal Khatwani | Idea (1%) for #143: Merged hand-ins lose the 1% idea row when the task has no Idea line | 8 | provisional | https://github.com/kamal0808/ideato/pull/121 |
+| 150 | 2026-10-20 | Kamal Khatwani | Work (99%) on #143: Merged hand-ins lose the 1% idea row when the task has no Idea line | 792 | provisional | https://github.com/kamal0808/ideato/pull/121 |
 
 ## Row 1 breakdown (rebuild cost on rate card v2, 2026-10-08)
 
