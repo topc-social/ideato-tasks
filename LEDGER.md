@@ -138,6 +138,7 @@ Units: 1 Neki = 1 rupee of work at today's market price (what it costs to get th
 | 130 | 2026-10-19 | Kamal Khatwani | Work (99%) on #138: Links in idea text are clickable | 792 | provisional | https://github.com/kamal0808/ideato/pull/117 |
 | 131 | 2026-10-19 | Kamal Khatwani | Idea (1%) for #133: Post Triagic as a private idea on Ideato, linking Sayan | 5 | provisional | https://github.com/topc-social/ideato-tasks/issues/133 |
 | 132 | 2026-10-19 | Kamal Khatwani (via Claude) | Work (99%) on #133: Post Triagic as a private idea on Ideato, linking Sayan | 495 | provisional | https://github.com/topc-social/ideato-tasks/issues/133 |
+| 133 | 2026-10-19 | Kamal Khatwani | Work (99%) on #134: Invites as rows: invites table, create_invite in the connector | 2,970 | provisional | https://github.com/kamal0808/ideato/pull/116 |
 
 ## Row 1 breakdown (rebuild cost on rate card v2, 2026-10-08)
 
