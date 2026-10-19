@@ -158,6 +158,8 @@ Units: 1 Neki = 1 rupee of work at today's market price (what it costs to get th
 | 150 | 2026-10-20 | Kamal Khatwani | Work (99%) on #143: Merged hand-ins lose the 1% idea row when the task has no Idea line | 792 | provisional | https://github.com/kamal0808/ideato/pull/121 |
 | 151 | 2026-10-20 | Kamal Khatwani | Idea (1%) for #145: Invite sheet on a task shows only that task's invites | 8 | provisional | https://github.com/kamal0808/ideato/pull/122 |
 | 152 | 2026-10-20 | Kamal Khatwani | Work (99%) on #145: Invite sheet on a task shows only that task's invites | 792 | provisional | https://github.com/kamal0808/ideato/pull/122 |
+| 153 | 2026-10-20 | Kamal Khatwani | Idea (1%) for #144: Search finds projects, tasks, people by skill and pages | 30 | provisional | https://github.com/kamal0808/ideato/pull/123 |
+| 154 | 2026-10-20 | Kamal Khatwani | Work (99%) on #144: Search finds projects, tasks, people by skill and pages | 2,970 | provisional | https://github.com/kamal0808/ideato/pull/123 |
 
 ## Row 1 breakdown (rebuild cost on rate card v2, 2026-10-08)
 
