@@ -150,6 +150,8 @@ Units: 1 Neki = 1 rupee of work at today's market price (what it costs to get th
 | 142 | 2026-10-19 | Kamal Khatwani | Work (99%) on #140: Invites to people on Ideato: email them right away, not in a blank digest | 792 | provisional | https://github.com/kamal0808/ideato/pull/119 |
 | 143 | 2026-10-19 | Kamal Khatwani | Idea (1%) for #141: Neki emails never go out | 8 | provisional | https://github.com/kamal0808/ideato/pull/119 |
 | 144 | 2026-10-19 | Kamal Khatwani | Work (99%) on #141: Neki emails never go out | 792 | provisional | https://github.com/kamal0808/ideato/pull/119 |
+| 145 | 2026-10-19 | Kamal Khatwani | Idea (1%) for #142: Local Ideato connector crashes: create_invite registered twice | 8 | provisional | https://github.com/topc-social/ideato-tasks/issues/142 |
+| 146 | 2026-10-19 | Kamal Khatwani (via Claude) | Work (99%) on #142: Local Ideato connector crashes: create_invite registered twice | 792 | provisional | https://github.com/topc-social/ideato-tasks/issues/142 |
 
 ## Row 1 breakdown (rebuild cost on rate card v2, 2026-10-08)
 
