@@ -141,6 +141,9 @@ Units: 1 Neki = 1 rupee of work at today's market price (what it costs to get th
 | 133 | 2026-10-19 | Kamal Khatwani | Work (99%) on #134: Invites as rows: invites table, create_invite in the connector | 2,970 | provisional | https://github.com/kamal0808/ideato/pull/116 |
 | 134 | 2026-10-19 | Kamal Khatwani | Work (99%) on #137: Invite button in Ideato: email/WhatsApp quick path + Tell my AI (mock UI) | 1,485 | provisional | https://github.com/kamal0808/ideato/pull/118 |
 | 135 | 2026-10-19 | Kamal Khatwani | Work (99%) on #139: Wire the invite sheet: real invites, email, Ideato notification, opened/joined | 6,435 | provisional | https://github.com/kamal0808/ideato/pull/118 |
+| 136 | 2026-10-19 | Kamal Khatwani | Idea (1%) for #134: Invites as rows: invites table, create_invite in the connector | 30 | provisional | https://github.com/topc-social/ideato-tasks/issues/134 |
+| 137 | 2026-10-19 | Kamal Khatwani | Idea (1%) for #137: Invite button in Ideato: email/WhatsApp quick path + Tell my AI (mock UI) | 15 | provisional | https://github.com/topc-social/ideato-tasks/issues/137 |
+| 138 | 2026-10-19 | Kamal Khatwani | Idea (1%) for #139: Wire the invite sheet: real invites, email, Ideato notification, opened/joined | 65 | provisional | https://github.com/topc-social/ideato-tasks/issues/139 |
 
 ## Row 1 breakdown (rebuild cost on rate card v2, 2026-10-08)
 
