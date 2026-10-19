@@ -134,7 +134,8 @@ Units: 1 Neki = 1 rupee of work at today's market price (what it costs to get th
 | 126 | 2026-10-18 | Kamal Khatwani | Work (99%) on #120: Say submit, not hand in, and 'work available' on feed cards | 792 | provisional | https://github.com/kamal0808/ideato/pull/113 |
 | 127 | 2026-10-18 | Kamal Khatwani | Idea (1%) for #127: Calm the feed down: neutrals and one accent until the brand kit lands | 15 | provisional | https://github.com/kamal0808/ideato/pull/114 |
 | 128 | 2026-10-18 | Kamal Khatwani | Work (99%) on #127: Calm the feed down: neutrals and one accent until the brand kit lands | 1,485 | provisional | https://github.com/kamal0808/ideato/pull/114 |
-| 129 | 2026-10-19 | Kamal Khatwani | Work (99%) on #138: Links in idea text are clickable | 792 | provisional | https://github.com/kamal0808/ideato/pull/117 |
+| 129 | 2026-10-19 | Kamal Khatwani | Idea (1%) for #138: Links in idea text are clickable | 8 | provisional | https://github.com/kamal0808/ideato/pull/117 |
+| 130 | 2026-10-19 | Kamal Khatwani | Work (99%) on #138: Links in idea text are clickable | 792 | provisional | https://github.com/kamal0808/ideato/pull/117 |
 
 ## Row 1 breakdown (rebuild cost on rate card v2, 2026-10-08)
 
