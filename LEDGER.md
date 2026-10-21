@@ -162,6 +162,8 @@ Units: 1 Neki = 1 rupee of work at today's market price (what it costs to get th
 | 154 | 2026-10-20 | Kamal Khatwani | Work (99%) on #144: Search finds projects, tasks, people by skill and pages | 2,970 | provisional | https://github.com/kamal0808/ideato/pull/123 |
 | 155 | 2026-10-21 | Kamal Khatwani | Idea (1%) for #146: Do founders actually want a co-founder agreement tool? | 30 | provisional | https://github.com/topc-social/ideato-tasks/issues/146 |
 | 156 | 2026-10-21 | Kamal Khatwani (via Claude) | Work (99%) on #146: Do founders actually want a co-founder agreement tool? | 2,970 | provisional | https://github.com/topc-social/ideato-tasks/issues/146 |
+| 157 | 2026-10-21 | Kamal Khatwani | Idea (1%) for #58: Add a picture when your AI posts your idea | 15 | provisional | https://github.com/kamal0808/ideato/pull/124 |
+| 158 | 2026-10-21 | Kamal Khatwani | Work (99%) on #58: Add a picture when your AI posts your idea | 1,485 | provisional | https://github.com/kamal0808/ideato/pull/124 |
 
 ## Row 1 breakdown (rebuild cost on rate card v2, 2026-10-08)
 
