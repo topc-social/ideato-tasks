@@ -190,6 +190,8 @@ Units: 1 Neki = 1 rupee of work at today's market price (what it costs to get th
 | 182 | 2026-10-24 | Kamal Khatwani (via Claude) | Work (99%) on #174: Video uploads on ideas fail: storage only accepts images | 792 | provisional | https://github.com/topc-social/ideato-tasks/issues/174 |
 | 183 | 2026-10-24 | Kamal Khatwani | Idea (1%) for #173: Add a founder's heard quote to Ideato's positioning notes | 3 | provisional | https://github.com/kamal0808/ideato/pull/138 |
 | 184 | 2026-10-24 | Kamal Khatwani | Work (99%) on #173: Add a founder's heard quote to Ideato's positioning notes | 247 | provisional | https://github.com/kamal0808/ideato/pull/138 |
+| 185 | 2026-10-24 | Kamal Khatwani | Idea (1%) for #167: Let your AI attach a picture from your computer when posting | 15 | provisional | https://github.com/kamal0808/ideato/pull/134 |
+| 186 | 2026-10-24 | Kamal Khatwani | Work (99%) on #167: Let your AI attach a picture from your computer when posting | 1,485 | provisional | https://github.com/kamal0808/ideato/pull/134 |
 
 ## Row 1 breakdown (rebuild cost on rate card v2, 2026-10-08)
 
