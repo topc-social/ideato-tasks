@@ -208,6 +208,8 @@ Units: 1 Neki = 1 rupee of work at today's market price (what it costs to get th
 | 200 | 2026-10-25 | Kamal Khatwani (via Claude) | Work (99%) on #151: Make fairsplit look like real software, and add a draft-with-your-AI button | 2,970 | provisional | https://github.com/topc-social/ideato-tasks/issues/151 |
 | 201 | 2026-10-25 | Kamal Khatwani | Idea (1%) for #154: Fairsplit: new headline, works in any country, India stamped | 15 | provisional | https://github.com/topc-social/ideato-tasks/issues/154 |
 | 202 | 2026-10-25 | Kamal Khatwani (via Claude) | Work (99%) on #154: Fairsplit: new headline, works in any country, India stamped | 1,485 | provisional | https://github.com/topc-social/ideato-tasks/issues/154 |
+| 203 | 2026-10-26 | Kamal Khatwani | Idea (1%) for #184: Connector consent screen names your Ideato account, not just Ideato | 8 | provisional | https://github.com/kamal0808/ideato/pull/146 |
+| 204 | 2026-10-26 | Kamal Khatwani | Work (99%) on #184: Connector consent screen names your Ideato account, not just Ideato | 792 | provisional | https://github.com/kamal0808/ideato/pull/146 |
 
 ## Row 1 breakdown (rebuild cost on rate card v2, 2026-10-08)
 
