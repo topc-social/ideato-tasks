@@ -212,6 +212,8 @@ Units: 1 Neki = 1 rupee of work at today's market price (what it costs to get th
 | 204 | 2026-10-26 | Kamal Khatwani | Work (99%) on #184: Connector consent screen names your Ideato account, not just Ideato | 792 | provisional | https://github.com/kamal0808/ideato/pull/146 |
 | 205 | 2026-10-27 | Kamal Khatwani | Idea (1%) for #186: Put the new headline on Ideato's home page | 8 | provisional | https://github.com/kamal0808/ideato/pull/147 |
 | 206 | 2026-10-27 | Kamal Khatwani | Work (99%) on #186: Put the new headline on Ideato's home page | 792 | provisional | https://github.com/kamal0808/ideato/pull/147 |
+| 207 | 2026-10-27 | Kamal Khatwani | Idea (1%) for #96: Write the one line that says what Ideato is | 25 | provisional | https://github.com/topc-social/ideato-tasks/issues/96 |
+| 208 | 2026-10-27 | Kamal Khatwani (via Claude) | Work (99%) on #96: Write the one line that says what Ideato is | 2,475 | provisional | https://github.com/kamal0808/ideato/pull/147 |
 
 ## Row 1 breakdown (rebuild cost on rate card v2, 2026-10-08)
 
