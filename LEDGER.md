@@ -226,6 +226,8 @@ Units: 1 Neki = 1 rupee of work at today's market price (what it costs to get th
 | 218 | 2026-10-27 | Kamal Khatwani | Work (99%) on #192: Agents reading a task also get the project's brief | 1,485 | provisional | https://github.com/kamal0808/ideato/pull/151 |
 | 219 | 2026-10-27 | Kamal Khatwani | Idea (1%) for #155: Show a project's money (backers, pot, ₹ bounties) next to its Neki | 15 | provisional | https://github.com/kamal0808/ideato/pull/153 |
 | 220 | 2026-10-27 | Kamal Khatwani | Work (99%) on #155: Show a project's money (backers, pot, ₹ bounties) next to its Neki | 1,485 | provisional | https://github.com/kamal0808/ideato/pull/153 |
+| 221 | 2026-10-27 | Kamal Khatwani | Idea (1%) for #159: Back a project by UPI from its page | 15 | provisional | https://github.com/kamal0808/ideato/pull/154 |
+| 222 | 2026-10-27 | Kamal Khatwani | Work (99%) on #159: Back a project by UPI from its page | 1,485 | provisional | https://github.com/kamal0808/ideato/pull/154 |
 
 ## Row 1 breakdown (rebuild cost on rate card v2, 2026-10-08)
 
