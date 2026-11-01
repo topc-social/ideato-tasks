@@ -232,6 +232,8 @@ Units: 1 Neki = 1 rupee of work at today's market price (what it costs to get th
 | 224 | 2026-10-27 | Kamal Khatwani | Work (99%) on #160: Email the owner when someone says they backed their project | 1,485 | provisional | https://github.com/kamal0808/ideato/pull/154 |
 | 225 | 2026-11-02 | Kamal Khatwani | Idea (1%) for #196: Lock down 11 open database tables (chats, connections, emails) | 12 | provisional | https://github.com/kamal0808/ideato/pull/161 |
 | 226 | 2026-11-02 | Kamal Khatwani | Work (99%) on #196: Lock down 11 open database tables (chats, connections, emails) | 1,188 | provisional | https://github.com/kamal0808/ideato/pull/161 |
+| 227 | 2026-11-02 | Kamal Khatwani | Idea (1%) for #195: Post an idea for a friend and let them claim it when they join | 40 | provisional | https://github.com/kamal0808/ideato/pull/159 |
+| 228 | 2026-11-02 | Kamal Khatwani | Work (99%) on #195: Post an idea for a friend and let them claim it when they join | 3,960 | provisional | https://github.com/kamal0808/ideato/pull/159 |
 
 ## Row 1 breakdown (rebuild cost on rate card v2, 2026-10-08)
 
