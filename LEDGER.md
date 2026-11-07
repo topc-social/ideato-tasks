@@ -242,6 +242,8 @@ Units: 1 Neki = 1 rupee of work at today's market price (what it costs to get th
 | 234 | 2026-11-02 | Kamal Khatwani (via Claude) | Work (99%) on #32: Get Ideato into Claude's connector directory | 6,435 | provisional | https://github.com/topc-social/ideato-tasks/issues/32 |
 | 235 | 2026-11-05 | Kamal Khatwani | Idea (1%) for #162: List Ideato on GitHub awesome lists for MCP and Claude Code | 10 | provisional | https://github.com/topc-social/ideato-tasks/issues/162 |
 | 236 | 2026-11-05 | Kamal Khatwani (via Claude) | Work (99%) on #162: List Ideato on GitHub awesome lists for MCP and Claude Code | 990 | provisional | https://github.com/punkpeye/awesome-remote-mcp-servers/pull/3098 |
+| 237 | 2026-11-07 | Kamal Khatwani | Idea (1%) for #187: Invite links show a personal card when shared | 15 | provisional | https://github.com/kamal0808/ideato/pull/168 |
+| 238 | 2026-11-07 | Kamal Khatwani | Work (99%) on #187: Invite links show a personal card when shared | 1,485 | provisional | https://github.com/kamal0808/ideato/pull/168 |
 
 ## Row 1 breakdown (rebuild cost on rate card v2, 2026-10-08)
 
