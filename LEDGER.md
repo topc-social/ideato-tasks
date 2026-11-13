@@ -256,6 +256,8 @@ Units: 1 Neki = 1 rupee of work at today's market price (what it costs to get th
 | 248 | 2026-11-12 | Kamal Khatwani | Work (99%) on #207: Get a Slack ping for every new Ideato signup | 2,673 | provisional | https://github.com/kamal0808/ideato/pull/172 |
 | 249 | 2026-11-13 | Kamal Khatwani | Idea (1%) for #209: Keep projects from private ideas hidden from everyone else | 12 | provisional | https://github.com/kamal0808/ideato/pull/173 |
 | 250 | 2026-11-13 | Kamal Khatwani | Work (99%) on #209: Keep projects from private ideas hidden from everyone else | 1,188 | provisional | https://github.com/kamal0808/ideato/pull/173 |
+| 251 | 2026-11-13 | Kamal Khatwani | Idea (1%) for #210: Show what a private project shipped, its activity and who's building it | 27 | provisional | https://github.com/kamal0808/ideato/pull/174 |
+| 252 | 2026-11-13 | Kamal Khatwani | Work (99%) on #210: Show what a private project shipped, its activity and who's building it | 2,673 | provisional | https://github.com/kamal0808/ideato/pull/174 |
 
 ## Row 1 breakdown (rebuild cost on rate card v2, 2026-10-08)
 
