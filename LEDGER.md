@@ -260,6 +260,8 @@ Units: 1 Neki = 1 rupee of work at today's market price (what it costs to get th
 | 252 | 2026-11-13 | Kamal Khatwani | Work (99%) on #210: Show what a private project shipped, its activity and who's building it | 2,673 | provisional | https://github.com/kamal0808/ideato/pull/174 |
 | 253 | 2026-11-13 | Kamal Khatwani | Idea (1%) for #211: Founders see their private project's full page, with a stranger preview | 18 | provisional | https://github.com/kamal0808/ideato/pull/174 |
 | 254 | 2026-11-13 | Kamal Khatwani | Work (99%) on #211: Founders see their private project's full page, with a stranger preview | 1,782 | provisional | https://github.com/kamal0808/ideato/pull/174 |
+| 255 | 2026-11-14 | Kamal Khatwani | Idea (1%) for #212: Bring Ideato prod back: move off blocked Vercel to the Mac mini | 12 | provisional | https://github.com/topc-social/ideato-tasks/issues/212 |
+| 256 | 2026-11-14 | Kamal Khatwani (via Claude) | Work (99%) on #212: Bring Ideato prod back: move off blocked Vercel to the Mac mini | 1,188 | provisional | https://github.com/topc-social/ideato-tasks/issues/212 |
 
 ## Row 1 breakdown (rebuild cost on rate card v2, 2026-10-08)
 
