@@ -268,6 +268,8 @@ Units: 1 Neki = 1 rupee of work at today's market price (what it costs to get th
 | 260 | 2026-11-14 | Kamal Khatwani (via Claude) | Work (99%) on #214: Auto-deploy Ideato master to the Mac mini prod | 792 | provisional | https://github.com/topc-social/ideato-tasks/issues/214 |
 | 261 | 2026-11-15 | Kamal Khatwani | Idea (1%) for #215: Links built from the request say localhost:3100 since prod moved to the mini | 12 | provisional | https://github.com/topc-social/ideato-tasks/issues/215 |
 | 262 | 2026-11-15 | Kamal Khatwani (via Claude) | Work (99%) on #215: Links built from the request say localhost:3100 since prod moved to the mini | 1,188 | provisional | https://github.com/topc-social/ideato-tasks/issues/215 |
+| 263 | 2026-11-15 | Kamal Khatwani | Idea (1%) for #216: Make Work with AI the main button on the reply box | 18 | provisional | https://github.com/topc-social/ideato-tasks/issues/216 |
+| 264 | 2026-11-15 | Kamal Khatwani (via Claude) | Work (99%) on #216: Make Work with AI the main button on the reply box | 1,782 | provisional | https://github.com/kamal0808/ideato/pull/177 |
 
 ## Row 1 breakdown (rebuild cost on rate card v2, 2026-10-08)
 
