@@ -280,6 +280,8 @@ Units: 1 Neki = 1 rupee of work at today's market price (what it costs to get th
 | 272 | 2026-11-16 | Kamal Khatwani (via Claude) | Work (99%) on #218: Neki ledger nests work under its idea for every tasks repo | 792 | provisional | https://github.com/kamal0808/ideato/pull/182 |
 | 273 | 2026-11-20 | Kamal Khatwani | Idea (1%) for #221: Public ideas can have invite-only projects, and many projects each | 90 | provisional | https://github.com/topc-social/ideato-tasks/issues/221 |
 | 274 | 2026-11-20 | Kamal Khatwani (via Claude) | Work (99%) on #221: Public ideas can have invite-only projects, and many projects each | 8,910 | provisional | https://github.com/kamal0808/ideato/pull/183 |
+| 275 | 2026-11-21 | Kamal Khatwani | Idea (1%) for #222: Run Ideato on Cloudflare Workers free plan, off the Mac mini | 27 | provisional | https://github.com/topc-social/ideato-tasks/issues/222 |
+| 276 | 2026-11-21 | Kamal Khatwani (via Claude) | Work (99%) on #222: Run Ideato on Cloudflare Workers free plan, off the Mac mini | 2,673 | provisional | https://github.com/kamal0808/ideato/pull/184 |
 
 ## Row 1 breakdown (rebuild cost on rate card v2, 2026-10-08)
 
