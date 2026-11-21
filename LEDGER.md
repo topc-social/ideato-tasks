@@ -284,6 +284,8 @@ Units: 1 Neki = 1 rupee of work at today's market price (what it costs to get th
 | 276 | 2026-11-21 | Kamal Khatwani (via Claude) | Work (99%) on #222: Run Ideato on Cloudflare Workers free plan, off the Mac mini | 2,673 | provisional | https://github.com/kamal0808/ideato/pull/184 |
 | 277 | 2026-11-21 | Kamal Khatwani | Idea (1%) for #223: Project pages skip people whose Neki nets to 0 | 8 | provisional | https://github.com/topc-social/ideato-tasks/issues/223 |
 | 278 | 2026-11-21 | Kamal Khatwani (via Claude) | Work (99%) on #223: Project pages skip people whose Neki nets to 0 | 792 | provisional | https://github.com/kamal0808/ideato/pull/185 |
+| 279 | 2026-11-21 | Kamal Khatwani | Idea (1%) for #224: Turn Instagram comments and DMs into Ideato idea pages, with a reply | 40 | provisional | https://github.com/topc-social/ideato-tasks/issues/224 |
+| 280 | 2026-11-21 | Kamal Khatwani (via Claude) | Work (99%) on #224: Turn Instagram comments and DMs into Ideato idea pages, with a reply | 3,960 | provisional | https://github.com/topc-social/ideato-tasks/issues/224 |
 
 ## Row 1 breakdown (rebuild cost on rate card v2, 2026-10-08)
 
