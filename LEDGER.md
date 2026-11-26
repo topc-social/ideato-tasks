@@ -292,6 +292,8 @@ Units: 1 Neki = 1 rupee of work at today's market price (what it costs to get th
 | 284 | 2026-11-22 | Kamal Khatwani (via Claude) | Work (99%) on #226: Make Ideato findable by Google and AI search | 3,465 | provisional | https://github.com/kamal0808/ideato/pull/190 |
 | 285 | 2026-11-24 | Kamal Khatwani | Idea (1%) for #228: Home says "Love to ___? An idea is waiting for you" | 8 | provisional | https://github.com/topc-social/ideato-tasks/issues/228 |
 | 286 | 2026-11-24 | Kamal Khatwani (via Claude) | Work (99%) on #228: Home says "Love to ___? An idea is waiting for you" | 792 | provisional | https://github.com/kamal0808/ideato/pull/192 |
+| 287 | 2026-11-26 | Kamal Khatwani | Idea (1%) for #232: Home: say you earn shares, and what each project is | 8 | provisional | https://github.com/kamal0808/ideato/pull/195 |
+| 288 | 2026-11-26 | Kamal Khatwani | Work (99%) on #232: Home: say you earn shares, and what each project is | 792 | provisional | https://github.com/kamal0808/ideato/pull/195 |
 
 ## Row 1 breakdown (rebuild cost on rate card v2, 2026-10-08)
 
