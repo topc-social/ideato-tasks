@@ -343,3 +343,7 @@ Directions Ideato took in the ideato repo and later dropped. Row 1 only prices w
 | **Total** | | | **77,250** |
 
 Evidence: the ideato repo's commit history for those months.
+
+## Backer claims
+
+Money put into Ideato is never Neki. Backers, pledges and payments live in `POT.md`, which Ideato's Money card reads.
